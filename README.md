@@ -16,8 +16,7 @@ $ go to http://localhost:3000
 ```
 
 
-![](https://github.com/YKalashnikov/Cake-Store/blob/master/first.png)
-![](https://github.com/YKalashnikov/Cake-Store/blob/master/second.png)
-![](https://github.com/YKalashnikov/Cake-Store/blob/master/third.png)
-![](https://github.com/YKalashnikov/Cake-Store/blob/master/fourth.png)
-![](https://github.com/YKalashnikov/Cake-Store/blob/master/fifth.png)
+![](https://github.com/YKalashnikov/solution-for-getting-question-from-your-audince-/blob/master/github__assets/main.png)
+![](https://github.com/YKalashnikov/solution-for-getting-question-from-your-audince-/blob/master/github__assets/auth.png)
+![](https://github.com/YKalashnikov/solution-for-getting-question-from-your-audince-/blob/master/github__assets/question.png)
+
