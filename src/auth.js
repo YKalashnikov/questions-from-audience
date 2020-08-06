@@ -7,13 +7,13 @@ export function getAuthForm() {
       </div>
       <div class="mui-textfield mui-textfield--float-label">
         <input type="password" id="password" required>
-        <label for="password">Пароль</label>
+        <label for="password">Password</label>
       </div>
       <button
         type="submit"
         class="mui-btn mui-btn--raised mui-btn--primary"
       >
-        Войти
+        LogIn
       </button>
     </form>
   `

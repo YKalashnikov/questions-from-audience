@@ -65,7 +65,7 @@ function submitFormHandler(event) {
 }
 
 function openModal() {
-  createModal('Авторизация', getAuthForm())
+  createModal('Authorization', getAuthForm())
   document
     .getElementById('auth-form')
     .addEventListener('submit', authFormHandler, {once: true})
