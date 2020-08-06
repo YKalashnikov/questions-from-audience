@@ -2,7 +2,7 @@
 ➜ [Demo](https://questions-835d8.web.app/)
 
 ### Using
-- vanila JS 
+- Vanila JS 
 - MUI
 - Webpack
 - CSS
